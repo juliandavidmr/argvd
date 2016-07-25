@@ -1,0 +1,29 @@
+{
+  "name": "argvd",
+  "version": "1.0.0",
+  "description": "describe all parameters of a function.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/argvd.git"
+  },
+  "keywords": [
+    "argv",
+    "argument",
+    "param",
+    "function"
+  ],
+  "author": "@anlijudavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/argvd/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/argvd#readme"
+}
